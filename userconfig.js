@@ -23,7 +23,7 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "FMHY",
+              name: "fmhy",
               url: "https://fmhy.pages.dev",
               icon: "player-play",
               icon_color: palette.green,
@@ -104,21 +104,21 @@ const default_config = {
           name: "development",
           links: [
             {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
+              name: "codeberg",
+              url: "https://codeberg.org",
+              icon: "brand-open-source",
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "cloudflare",
+              url: "https://dash.cloudflare.com",
+              icon: "brand-cloudflare",
               icon_color: palette.peach,
             },
             {
-              name: "wakatime",
-              url: "https://wakatime.com",
-              icon: "24-hours",
+              name: "stackoverflow",
+              url: "https://stackoverflow.com",
+              icon: "brand-stackoverflow",
               icon_color: palette.red,
             },
           ],
@@ -144,40 +144,28 @@ const default_config = {
               icon: "code-minus",
               icon_color: palette.red,
             },
-            {
-              name: "stackoverflow",
-              url: "https://stackoverflow.com",
-              icon: "brand-stackoverflow",
-              icon_color: palette.blue,
-            },
           ],
         },
         {
           name: "resources",
           links: [
             {
-              name: "dou",
-              url: "https://dou.ua",
-              icon: "brand-prisma",
-              icon_color: palette.green,
-            },
-            {
               name: "hackernews",
               url: "https://news.ycombinator.com",
               icon: "brand-redhat",
-              icon_color: palette.peach,
+              icon_color: palette.green,
             },
             {
               name: "uber research",
               url: "https://eng.uber.com/category/articles",
               icon: "brand-uber",
-              icon_color: palette.red,
+              icon_color: palette.peach,
             },
             {
               name: "google research",
               url: "https://blog.research.google",
               icon: "hexagon-letter-g",
-              icon_color: palette.blue,
+              icon_color: palette.red,
             },
           ],
         },
