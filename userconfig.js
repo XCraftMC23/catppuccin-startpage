@@ -75,9 +75,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "rocket",
+              name: "nasa",
               url: "https://nasa.gov",
-              icon: "badge-filled",
+              icon: "rocket",
               icon_color: palette.peach,
             },
             {
@@ -87,7 +87,7 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "WP",
+              name: "news",
               url: "https://www.washingtonpost.com",
               icon: "news",
               icon_color: palette.blue,
