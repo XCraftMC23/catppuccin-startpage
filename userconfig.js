@@ -8,7 +8,7 @@ const default_config = {
     scale: "F",
   },
   clock: {
-    format: "h:i p",
+    format: "H:mm ss",
     iconColor: palette.maroon,
   },
   disabled: [],
