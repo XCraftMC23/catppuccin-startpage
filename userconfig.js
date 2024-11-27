@@ -25,7 +25,7 @@ const default_config = {
             {
               name: "FMHY",
               url: "https://fmhy.pages.dev",
-              icon: "home",
+              icon: "player-play",
               icon_color: palette.green,
             },
             {
