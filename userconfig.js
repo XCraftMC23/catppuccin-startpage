@@ -4,15 +4,15 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
-    scale: "C",
+    location: "Huntsville, Alabama",
+    scale: "F",
   },
   clock: {
     format: "h:i p",
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://c0d3r3d.com",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -23,9 +23,9 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "FMHY",
+              url: "https://fmhy.pages.dev",
+              icon: "home",
               icon_color: palette.green,
             },
             {
